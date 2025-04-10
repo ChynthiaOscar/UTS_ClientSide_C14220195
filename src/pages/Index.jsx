@@ -52,6 +52,7 @@ const Header = () => {
     });
 
     return (
+        //input
         <div className="h-screen w-screen bg-gray-100 flex flex-col">
             <div className="bg-amber-100 shadow-md px-4 py-6 z-10 sticky top-0">
                 <h1 className="text-2xl font-bold mb-4 text-gray-800">Todo List</h1>
